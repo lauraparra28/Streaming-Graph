@@ -33,6 +33,7 @@ Assigns content to one or more genres.
 
 ## 🧱 Data Model Diagram
 
+![Streaming Graph Model](data_model.jpg)
 
 ## 🔍 Useful Cypher Queries
 Movies watched by a user
