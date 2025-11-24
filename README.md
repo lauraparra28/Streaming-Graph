@@ -37,17 +37,17 @@ Assigns content to one or more genres.
 ## 🔍 Useful Cypher Queries
 Movies watched by a user
 
-´´´
+```cypher
 MATCH (u:User {name: "Laura"})-[:WATCHED]->(m:Movie)
 RETURN m.title;
-´´´
+```
 
 Series an actor performed in
 
-´´´
+```cypher
 MATCH (a:Actor {name: "Pedro Pascal"})-[:ACTED_IN]->(s:Series)
 RETURN s.title;
-´´´
+```
 
 
 
