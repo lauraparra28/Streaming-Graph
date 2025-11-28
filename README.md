@@ -33,7 +33,7 @@ Assigns content to one or more genres.
 
 ## 🧱 Data Model Diagram
 
-![Streaming Graph Model](data_model.jpg)
+![Streaming Graph Model](data_model_movies.jpg)
 
 ## 🔍 Useful Cypher Queries
 Movies watched by a user
@@ -49,6 +49,8 @@ Series an actor performed in
 MATCH (a:Actor {name: "Pedro Pascal"})-[:ACTED_IN]->(s:Series)
 RETURN s.title;
 ```
+## 🧱 Example Knowledge Graph with User Laura
 
+![Streaming Graph Model](data_model.jpg)
 
 
