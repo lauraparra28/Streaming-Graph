@@ -60,7 +60,7 @@ RETURN s.title;
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/72671378?v=4"
+      src="https://avatars.githubusercontent.com/u/10816198?v=4"
     />
     <p>&nbsp&nbsp&nbspLaura Parra<br>
     &nbsp&nbsp&nbsp
