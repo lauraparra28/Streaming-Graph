@@ -51,6 +51,6 @@ RETURN s.title;
 ```
 ## 🧱 Example Knowledge Graph with User Laura
 
-![Streaming Graph Model](knowldge_graph.jpg)
+![Streaming Graph Model](knowledge_graph.jpg)
 
 
